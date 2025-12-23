@@ -6,6 +6,7 @@ target/surefire-reports/
 target/test-classes/
 target/maven-archiver/
 target/*.original
+target/*
 .mvn/
 mvnw
 mvnw.cmd
